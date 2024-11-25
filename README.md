@@ -638,7 +638,7 @@
 
 <b>1 )</b> Clone project `git clone git clone https://github.com/mkris8/Springboot-Eureka-Config-Gateway-Kafka-FileStorage-JWT-Docker.git`
 
-<b>2 )</b> Go to the project's home directory :  `cd spring-boot-microservices`
+<b>2 )</b> Go to the project's home directory :  `cd Springboot-Eureka-Config-Gateway-Kafka-FileStorage-JWT-Docker`
 
 <b>3 )</b> Run docker compose <b>`docker compose up`</b></b>
 
