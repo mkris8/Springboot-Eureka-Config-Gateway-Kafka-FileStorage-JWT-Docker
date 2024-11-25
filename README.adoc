@@ -430,7 +430,7 @@
 
 === 🔨 Run the App
 
-<b>1 )</b> Clone project `git clone https://github.com/mkris8/spring-boot-microservices.git`
+<b>1 )</b> Clone project `git clone https://github.com/mkris8/Springboot-Eureka-Config-Gateway-Kafka-FileStorage-JWT-Docker.git`
 
 <b>2 )</b> Go to the project's home directory : `cd spring-boot-microservices`
 
